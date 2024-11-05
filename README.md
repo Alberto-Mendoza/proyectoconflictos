@@ -1,5 +1,8 @@
 # proyectoconflictos
 Introducción
-Descripción
+
+
+Detalles
+
 
 Finalización
